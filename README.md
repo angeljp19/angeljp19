@@ -13,7 +13,7 @@ He trabajado en proyectos personales, integrando APIs RESTful y bases de datos S
 <strong>Frontend: HTML, CSS, JavaScript, Svelte, TailwindCSS</strong>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,svelte,tailwindcss&perline=14" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwindcss&perline=14" />
     </a>
 </p>
 
