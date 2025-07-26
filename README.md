@@ -10,10 +10,10 @@ He trabajado en proyectos personales, integrando APIs RESTful y bases de datos S
 
 <h2 align='center'> 🚀 Tecnologías que domino:</h2>
 
-<strong>Frontend: HTML, CSS, JavaScript, Svelte, TailwindCSS</strong>
+<strong>Frontend: HTML, CSS, JavaScript,Typescript, Svelte, React, TailwindCSS</strong>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwindcss&perline=14" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,react,tailwindcss&perline=14" />
     </a>
 </p>
 
