@@ -6,7 +6,7 @@ He trabajado en proyectos personales, integrando APIs RESTful y bases de datos S
  Soy un apasionado del aprendizaje continuo  y de la mejora constante, lo que me mantiene al día con las tendencias tecnológicas más recientes.
  Me gusta combinar un enfoque profesional en la calidad del código 🧑‍💻 con un toque creativo en los proyectos que desarrollo 💡.
 
-🙌 ¡Siempre listo para nuevos desafíos y oportunidades de colaboración! 🤝
+🙌 ¡Siempre listo para nuevos desafíos y oportunidades de colaboración! Conoce más acerca de mi trabajo aqui: https://portafolio-angel-cordova.vercel.app/🤝
 
 <h2 align='center'> 🚀 Tecnologías que domino:</h2>
 
